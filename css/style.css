@@ -170,14 +170,6 @@ textarea {
 	font-size: 2.8rem;
 }
 
-.project__more::after {
-	content: '\1F816';
-	color: #fff;
-	font-size: 2.6rem;
-	margin-left: 0.5rem;
-}
-
-
 .project__card:hover .project__name {
 	bottom: 25rem;
 	font-size: 3.2rem;
