@@ -63,6 +63,9 @@ input {
 	border: none;
 	outline: none;
 	background: transparent;
+	border-radius:0px;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
 }
 
 textarea {
@@ -72,6 +75,9 @@ textarea {
 	border: none;
 	outline: none;
 	background: transparent;
+	border-radius:0px;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
 }
 
 .wrapper {
